@@ -1,0 +1,10 @@
+# === .gitignore ===
+
+# Runtime data (passwords, menu state, orders)
+data/
+
+# Compiled outputs
+*.exe
+*.o
+*.obj
+cafe
